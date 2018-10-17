@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyDataScient", "MyDataScient\MyDataScient.pyproj", "{FE5C4846-4C37-46B0-BB12-40C69C9A1A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5C4846-4C37-46B0-BB12-40C69C9A1A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5C4846-4C37-46B0-BB12-40C69C9A1A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D76C6C4-B5D0-4F46-B265-9683A497CC4F}
+	EndGlobalSection
+EndGlobal
